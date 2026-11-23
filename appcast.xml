@@ -6,6 +6,18 @@
         <description>Nuove versioni e aggiornamenti per Kobi.</description>
         <language>it</language>
         <item>
+            <title>Kobi 1.1</title>
+            <sparkle:releaseNotesLink>https://github.com/stegidi/kobi-releases/releases/tag/v1.1</sparkle:releaseNotesLink>
+            <pubDate>Mon, 23 Nov 2026 17:37:42 +0100</pubDate>
+            <enclosure
+                url="https://github.com/stegidi/kobi-releases/releases/download/v1.1/Kobi.zip"
+                sparkle:version="2"
+                sparkle:shortVersionString="1.1"
+                sparkle:edSignature="lJarrQgJBm/H5mm/MIQbGSPYZd0VTQeLRYWfheahducLX+DBxfN6fy7me6Vnmb/5mU3sn4Z+f2JamrZGOVmiBQ=="
+                length="1493912"
+                type="application/octet-stream" />
+        </item>
+        <item>
             <title>Kobi 1.0</title>
             <sparkle:releaseNotesLink>https://github.com/stegidi/kobi-releases/releases/tag/v1.0</sparkle:releaseNotesLink>
             <pubDate>Wed, 18 Nov 2026 22:16:51 +0100</pubDate>
